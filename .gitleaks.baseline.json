@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Private Key",
+  "StartLine": 1,
+  "EndLine": 15,
+  "StartColumn": 1,
+  "EndColumn": 29,
+  "Match": "-----BEGIN RSA PRIVATE KEY-----\nMIICWwIBAAKBgQCzURxIqzer0ACAbX/lHdsn4Gd9PLKrf7EeDYfIdV0HZKPD8WDr\nbBx2/fBu0OW2sjnzv/SVZbJ0DAuPE/p0+eT0qb2qC10iz9iTD7ribd7gxhirVb8y\nb3fBjXsxc8V8p4Ny1LcvNSqCjwUbJqdRogfoJeTiqPM58z5sNzuv5iq7iwIDAQAB\nAoGAPMQy4olrP0UotlzlJ36bowLP70ffgHCwU+/f4NWs5fF78c3du0oSx1w820Dd\nZ7E0JF8bgnlJJTxjumPZz0RUCugrEHBKJmzEz3cxF5E3+7NvteZcjKn9D67RrM5x\n1/uSZ9cqKE9cYvY4fSuHx18diyZ4axR/wB1Pea2utjjDM+ECQQDb9ZbmmaWMiRpQ\n5Up+loxP7BZNPsEVsm+DVJmEFbaFgGfncWBqSIqnPNjMwTwj0OigTwCAEGPkfRVW\nT0pbYWCxAkEA0LK7SCTwzyDmhASUalk0x+3uCAA6ryFdwJf/wd8TRAvVOmkTEldX\nuJ7ldLvfrONYO3v56uKTU/SoNdZYzKtO+wJAX2KM4ctXYy5BXztPpr2acz4qHa1N\nBh+vBAC34fOYhyQ76r3b1btHhWZ5jbFuZwm9F2erC94Ps5IaoqcX07DSwQJAPKGw\nh2U0EPkd/3zVIZCJJQya+vgWFIs9EZcXVtvYXQyTBkVApTN66MhBIYjzkub5205J\nbVQmOV37AKklY1DhwQJAA1wos0cYxro02edzatxd0DIR2r4qqOqLkw6BhYHhq6HJ\nZvIcQkHqdSXzdETFc01I1znDGGIrJHcnvKWgBPoEUg==\n-----END RSA PRIVATE KEY----",
+  "Secret": "-----BEGIN RSA PRIVATE KEY-----\nMIICWwIBAAKBgQCzURxIqzer0ACAbX/lHdsn4Gd9PLKrf7EeDYfIdV0HZKPD8WDr\nbBx2/fBu0OW2sjnzv/SVZbJ0DAuPE/p0+eT0qb2qC10iz9iTD7ribd7gxhirVb8y\nb3fBjXsxc8V8p4Ny1LcvNSqCjwUbJqdRogfoJeTiqPM58z5sNzuv5iq7iwIDAQAB\nAoGAPMQy4olrP0UotlzlJ36bowLP70ffgHCwU+/f4NWs5fF78c3du0oSx1w820Dd\nZ7E0JF8bgnlJJTxjumPZz0RUCugrEHBKJmzEz3cxF5E3+7NvteZcjKn9D67RrM5x\n1/uSZ9cqKE9cYvY4fSuHx18diyZ4axR/wB1Pea2utjjDM+ECQQDb9ZbmmaWMiRpQ\n5Up+loxP7BZNPsEVsm+DVJmEFbaFgGfncWBqSIqnPNjMwTwj0OigTwCAEGPkfRVW\nT0pbYWCxAkEA0LK7SCTwzyDmhASUalk0x+3uCAA6ryFdwJf/wd8TRAvVOmkTEldX\nuJ7ldLvfrONYO3v56uKTU/SoNdZYzKtO+wJAX2KM4ctXYy5BXztPpr2acz4qHa1N\nBh+vBAC34fOYhyQ76r3b1btHhWZ5jbFuZwm9F2erC94Ps5IaoqcX07DSwQJAPKGw\nh2U0EPkd/3zVIZCJJQya+vgWFIs9EZcXVtvYXQyTBkVApTN66MhBIYjzkub5205J\nbVQmOV37AKklY1DhwQJAA1wos0cYxro02edzatxd0DIR2r4qqOqLkw6BhYHhq6HJ\nZvIcQkHqdSXzdETFc01I1znDGGIrJHcnvKWgBPoEUg==\n-----END RSA PRIVATE KEY----",
+  "File": "test/fixtures/ssl/ssl-cert-snakeoil.key",
+  "SymlinkFile": "",
+  "Commit": "e67f60b21ad1f0fdef6cdef6a7ee1ad0ec7bad3c",
+  "Entropy": 6.000546,
+  "Author": "renovate[bot]",
+  "Email": "29139614+renovate[bot]@users.noreply.github.com",
+  "Date": "2022-10-24T04:13:23Z",
+  "Message": "chore(deps): lock file maintenance (#556)\n\nCo-authored-by: renovate[bot] \u003c29139614+renovate[bot]@users.noreply.github.com\u003e",
+  "Tags": [],
+  "RuleID": "private-key",
+  "Fingerprint": "e67f60b21ad1f0fdef6cdef6a7ee1ad0ec7bad3c:test/fixtures/ssl/ssl-cert-snakeoil.key:private-key:1"
+ }
+]
